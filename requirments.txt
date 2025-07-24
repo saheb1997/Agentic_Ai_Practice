@@ -11,3 +11,4 @@ langchain-openai
 chromadb
 faiss-cpu
 numpy
+streamlit
